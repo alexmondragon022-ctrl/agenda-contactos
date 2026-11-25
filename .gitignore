@@ -1,0 +1,11 @@
+.env
+.env.local
+.env.production
+
+/archivos/*
+!/archivos/.gitkeep
+
+.DS_Store
+Thumbs.db
+
+config/db.local.php
